@@ -1,0 +1,15 @@
+<!--components/tabar.wxml-->
+<view class='tabar'>
+  <view class='tabar-item home'>
+    <image class='icon' src='../../pages/images/home.png'></image>
+    <text>对Ta说</text>
+  </view>
+  <view class='tabar-item message'>
+    <image class='icon' src='../../pages/images/message.png'></image>
+    <text>消息列表</text>
+  </view>
+  <view class='tabar-item my'>
+    <image class='icon' src='../../pages/images/my.png'></image>
+    <text>我的</text>
+  </view>
+</view>
